@@ -4,10 +4,10 @@ h1{
   font-style: italic
 }
 body{
-  background:red;
+  background:grey;
 }
 #main-content{
-  background: red;
+  background: white;
   width: 1200px;
   margin: 0 auto;
   height:100 px;
