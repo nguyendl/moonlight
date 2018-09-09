@@ -1,0 +1,30 @@
+h1{
+  font-family: sans-serif;
+  font-weight:bold;
+  font-style: italic
+}
+body{
+  background:gray;
+}
+#main-content{
+  background: white;
+  width: 1200px;
+  margin: 0 auto;
+  height:100 px;
+  padding: 20px;
+}
+#description-content{
+  margin:60px auto;
+  padding:30px 5%;
+  border: 1px solid blue;
+  width:50%;
+  border-radius:10px;
+}
+.inline{
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid;
+  display: inline-block;
+  background: cyan;
+  border-radius: 10px 20px;
+}
